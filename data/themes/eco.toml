@@ -1,0 +1,22 @@
+# Theme metadata
+name = "eco"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#E0F2E9"
+
+# Menu
+menu_primary = "#4B1D3F"
+menu_text = "#CEB5A7"
+menu_text_active = "#4B1D3F"
+menu_title = "#C9B1BD"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
